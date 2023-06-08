@@ -18,4 +18,10 @@ class AppStrings {
   static const String stgHome = 'Home';
   static const String stgSearch = 'Search';
   static const String stgProfile = 'Profile';
+  static const String stgSearchContent = 'Search course, teacher, etc';
+  static const String stgCategory = 'Categories';
+  static const String stgSeeAll = 'See all';
+  static const String stgDeal = 'Deals';
+  static const String stgBuyNow = 'Buy now';
+  static const String stgPopularCourses = 'Popular Courses';
 }
